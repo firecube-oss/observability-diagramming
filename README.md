@@ -34,8 +34,8 @@ Somewhat opinionated assets for Observability Diagramming.
 
 * Below are a few representations of the Data Flow of the Otel Demo App. https://opentelemetry.io/docs/demo/collector-data-flow-dashboard/#data-flow-overview 
 * All representations, I feel, accurately represent the state of what's going on with the Otel Demo App
-* However the diagrams are quite differente in the way they represent the information
-* There are many other ways to represent this informaton. Hence why I don't want to dictate adherence to models but rather focus on providing raw assets that people can use as they want. 
+* However the diagrams are quite different in the way they represent the information
+* There are many other ways to represent this information. Hence why I don't want to dictate adherence to models but rather focus on providing raw assets that people can use as they want. 
 
 <img src="./assets/Option1.png">
 <img src="./assets/Option2.png">
