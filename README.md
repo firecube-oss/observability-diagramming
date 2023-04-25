@@ -37,8 +37,8 @@ Somewhat opinionated assets for Observability Diagramming.
 * However the diagrams are quite differente in the way they represent the information
 * There are many other ways to represent this informaton. Hence why I don't want to dictate adherence to models but rather focus on providing raw assets that people can use as they want. 
 
-<img src="./assets/option1.png">
-<img src="./assets/option2.png">
+<img src="./assets/Option1.png">
+<img src="./assets/Option2.png">
 
 ## Rationale
 
