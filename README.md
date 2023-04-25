@@ -7,9 +7,11 @@ Somewhat opinionated assets for Observability Diagramming.
 </pre>
 </pre>
 
-<img src="./assets/excalidraw_library_temple.png">
-<img src="./assets/excalidraw_library_otel_light.png">
-<img src="./assets/excalidraw_library_otel_dark.png">
+<img src="./assets/TEMPLE.png">
+<img src="./assets/otel_sdk_dark.png">
+<img src="./assets/otel_sdk_light.png">
+<img src="./assets/otel_collector_icons.png">
+<img src="./assets/otel_collector_icons_djaglowski.png">
 
 ## Associations
 
@@ -67,7 +69,7 @@ Somewhat opinionated assets for Observability Diagramming.
 ## Attributions 
 
 * [@devrimdemiroz] Devrim Demiroz for initial inspiration and continued support
-* [djaglowski] For his excellent Kubecon 2023 Presentation
+* [@djaglowski] For his excellent Kubecon 2023 Presentation
 * [@open-telemetry] OpenTelemetry for providing seed icons via their opentelemetry.io repo: https://github.com/open-telemetry/opentelemetry.io/tree/main/iconography
 * sachamaps for inspiration for highly seperated colors: https://sashamaps.net/docs/resources/20-colors/
 * [@yurishkuro] Yuri Shkuro for his TEMPLE model https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402
