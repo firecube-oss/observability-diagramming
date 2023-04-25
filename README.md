@@ -21,13 +21,14 @@ Somewhat opinionated assets for Observability Diagramming.
 
 * Provide a set of ready to go Icons for various Observability Concepts
 * Help create better diagraming for the Observability Ecosystem
+* Adopt diagraming standards with the help of community review when they provide a clear value add.
 * Use existing concepts / iconology where it is allowed
 * If a concept does not yet exist create an icon for it
 
 ## Non Goals
 
 * Dictate how to diagram / what icons to use
-* Adhere to every diagramming standard / approach such as BMPN, ArchiMate, etc
+* Try to Adhere to every diagramming standard / approach, without subject matter experts / community support. If I don't understand a diagraming standard I won't phone it in. 
 * Play one upmanship against current diagrams used to demonstrate Observability concepts. I use them as inspiration for my examples, but am certainly not saying my way is right!
 * Be a SIG (Special Interest Group)
 * Be biased towards a vendor
