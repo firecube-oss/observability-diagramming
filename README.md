@@ -39,6 +39,7 @@ Somewhat opinionated assets for Observability Diagramming.
 
 <img src="./assets/Option1.png">
 <img src="./assets/Option2.png">
+<img src="./assets/option3.png">
 
 ## Rationale
 
@@ -59,10 +60,12 @@ Somewhat opinionated assets for Observability Diagramming.
 * Add SLI / SLO Icon Set
 * Add Path to convert to Visio Stencils for Example
 * Add further diagrams about 3rd party integrations (e.g. AWS X-Ray)
-
+* Concept - Log Bridge API https://opentelemetry.io/docs/reference/specification/logs/bridge-api/
+* Concept - Connectors: https://github.com/open-telemetry/opentelemetry-collector/blob/main/connector/README.md
 ## Attributions 
 
 * [@devrimdemiroz] Devrim Demiroz for initial inspiration and continued support
+* [djaglowski] For his excellent Kubecon 2023 Presentation
 * [@open-telemetry] OpenTelemetry for providing seed icons via their opentelemetry.io repo: https://github.com/open-telemetry/opentelemetry.io/tree/main/iconography
 * sachamaps for inspiration for highly seperated colors: https://sashamaps.net/docs/resources/20-colors/
 * [@yurishkuro] Yuri Shkuro for his TEMPLE model https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402
