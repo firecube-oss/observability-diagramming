@@ -62,6 +62,8 @@ Somewhat opinionated assets for Observability Diagramming.
 * Add further diagrams about 3rd party integrations (e.g. AWS X-Ray)
 * Concept - Log Bridge API https://opentelemetry.io/docs/reference/specification/logs/bridge-api/
 * Concept - Connectors: https://github.com/open-telemetry/opentelemetry-collector/blob/main/connector/README.md
+* Example - djaglowski for Collector Architecture with SDK components
+
 ## Attributions 
 
 * [@devrimdemiroz] Devrim Demiroz for initial inspiration and continued support
