@@ -62,10 +62,10 @@ Somewhat opinionated assets for Observability Diagramming.
 
 ## Attributions 
 
-* @devrimdemiroz Devrim Demiroz for initial inspiration and continued support
-* @open-telemetry OpenTelemetry for providing seed icons via their opentelemetry.io repo: https://github.com/open-telemetry/opentelemetry.io/tree/main/iconography
+* [@devrimdemiroz] Devrim Demiroz for initial inspiration and continued support
+* [@open-telemetry] OpenTelemetry for providing seed icons via their opentelemetry.io repo: https://github.com/open-telemetry/opentelemetry.io/tree/main/iconography
 * sachamaps for inspiration for highly seperated colors: https://sashamaps.net/docs/resources/20-colors/
-* @yurishkuro Yuri Shkuro for his TEMPLE model https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402
+* [@yurishkuro] Yuri Shkuro for his TEMPLE model https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402
 
 
 

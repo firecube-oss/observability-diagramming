@@ -2,7 +2,7 @@
 
 ## Prior Art
 
-* @yurishkuro Yuri Shkuro for his TEMPLE model https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402
+* [@yurishkuro] Yuri Shkuro for his TEMPLE model https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402
 
 ## Usage
 

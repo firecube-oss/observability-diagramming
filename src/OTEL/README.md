@@ -2,8 +2,8 @@
 
 ## Prior Art
 
-* @open-telemetry The OpenTelemetry site (https://opentelemetry.io/) has some fantastic assets for icongraphy which can be found here: https://github.com/open-telemetry/opentelemetry.io/tree/main/iconography
-* @devrimdemiroz Devrim Demiroz for his work on grouping TML Signals (Traces, Metrics, Logs) for representation via Cartography. Sample article: https://medium.com/@devrim.demiroz/unlocking-tempo-apm-dashboard-without-tempo-fcbb0f433998
+* [@open-telemetry] The OpenTelemetry site (https://opentelemetry.io/) has some fantastic assets for icongraphy which can be found here: https://github.com/open-telemetry/opentelemetry.io/tree/main/iconography
+* [@devrimdemiroz] Devrim Demiroz for his work on grouping TML Signals (Traces, Metrics, Logs) for representation via Cartography. Sample article: https://medium.com/@devrim.demiroz/unlocking-tempo-apm-dashboard-without-tempo-fcbb0f433998
 
 ## Usage
 
