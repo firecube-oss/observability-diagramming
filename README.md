@@ -7,13 +7,13 @@ Somewhat opinionated assets for Observability Diagramming.
 </pre>
 </pre>
 
-![](./assets/excalidraw_library_temple.PNG "Sample 1").
-![](./assets/excalidraw_library_otel_light.PNG "Sample 2").
-![](./assets/excalidraw_library_otel_dark.PNG "Sample 3").
+<img src="./assets/excalidraw_library_temple.png">
+<img src="./assets/excalidraw_library_otel_light.png">
+<img src="./assets/excalidraw_library_otel_dark.png">
 
 ## Associations
 
-* I am not in anyway associated with OpenTelemetry or CNCF, and do not intend to mis-represent that fact in anyway. 
+* I am not in anyway associated with OpenTelemetry or CNCF and do not intend to mis-represent that fact in anyway. 
 
 ## Goals
 
@@ -37,8 +37,8 @@ Somewhat opinionated assets for Observability Diagramming.
 * However the diagrams are quite differente in the way they represent the information
 * There are many other ways to represent this informaton. Hence why I don't want to dictate adherence to models but rather focus on providing raw assets that people can use as they want. 
 
-![](./assets/option1.png "Option 1").
-![](./assets/option2.png "Option 2").
+<img src="./assets/option1.png">
+<img src="./assets/option2.png">
 
 ## Rationale
 
