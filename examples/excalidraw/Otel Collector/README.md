@@ -1,9 +1,9 @@
-# Excalidraw Examples
+# Otel Collector - Freestyle
 
 
 ## Prior Art
 
-* These examples are based on the Otel Demo App Deployment. Based on this Data Flow Diagram by @devrimdemiroz : https://opentelemetry.io/docs/demo/collector-data-flow-dashboard/#data-flow-overview
+* None - this was a concept I was playing around with to demonstrate Otel Collector pipelines visually
 
 ## Usage
 

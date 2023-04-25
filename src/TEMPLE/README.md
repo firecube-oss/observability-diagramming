@@ -1,9 +1,8 @@
-# Excalidraw Examples
-
+# Observability Signals (TEMPLE)
 
 ## Prior Art
 
-* These examples are based on the Otel Demo App Deployment. Base on this Data Flow Diagram: https://opentelemetry.io/docs/demo/collector-data-flow-dashboard/#data-flow-overview
+* @yurishkuro Yuri Shkuro for his TEMPLE model https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402
 
 ## Usage
 
@@ -11,3 +10,5 @@
 * Otherwise you can open them with https://excalidraw.com/
 
 ## Mental Model 
+
+* #TODO : Describe how you came up with the color set using saschamaps concepts -> high color diffrentiation and association. 
