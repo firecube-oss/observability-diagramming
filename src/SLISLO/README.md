@@ -1,8 +1,9 @@
-# Observability Signals (TEMPLE)
+# Service Level Objectives and Service Level Indicators
 
 ## Prior Art
 
-* [@yurishkuro] Yuri Shkuro for his TEMPLE model https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402
+* SRE Workbook Implementing SLOs Chapter - https://sre.google/workbook/implementing-slos/ 
+* Implementing Service Level Objectives - https://www.oreilly.com/library/view/implementing-service-level/9781492076803/
 
 ## Usage
 
