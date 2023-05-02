@@ -13,10 +13,6 @@ Somewhat opinionated assets for Observability Diagramming.
 <img src="./assets/otel_collector_icons.png">
 <img src="./assets/otel_collector_icons_djaglowski.png">
 
-## Associations
-
-* I am not in anyway associated with OpenTelemetry or CNCF and do not intend to mis-represent that fact in anyway. 
-
 ## Goals
 
 * Provide a set of ready to go Icons for various Observability Concepts
@@ -65,6 +61,7 @@ Somewhat opinionated assets for Observability Diagramming.
 * Add further diagrams about 3rd party integrations (e.g. AWS X-Ray)
 * Concept - Log Bridge API https://opentelemetry.io/docs/reference/specification/logs/bridge-api/
 * Concept - Connectors: https://github.com/open-telemetry/opentelemetry-collector/blob/main/connector/README.md
+- Concept - Resource Discovery
 * Example - djaglowski for Collector Architecture with SDK components
 
 ## Attributions 
