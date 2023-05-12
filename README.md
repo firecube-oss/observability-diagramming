@@ -2,16 +2,30 @@
 
 Somewhat opinionated assets for Observability Diagramming. 
 
+## Mental Model
+
+<img src="./assets/ENDtoEND.png">
+
 ## Samples
 
-</pre>
-</pre>
+### Signals
 
 <img src="./assets/TEMPLE.png">
+
+### SDKs
+
 <img src="./assets/otel_sdk_dark.png">
-<img src="./assets/otel_sdk_light.png">
-<img src="./assets/otel_collector_icons.png">
-<img src="./assets/otel_collector_icons_djaglowski.png">
+
+### Pipelines
+
+<img src="./assets/OTEL_COLLECTOR.png">
+
+### Platforms
+
+### SLI / SLO
+
+<img src="./assets/SLI.png">
+<img src="./assets/SLO.png">
 
 ## Goals
 
