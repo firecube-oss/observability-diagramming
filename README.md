@@ -39,7 +39,7 @@ Somewhat opinionated assets for Observability Diagramming.
 
 * Dictate how to diagram / what icons to use
 * Try to Adhere to every diagramming standard / approach, without subject matter experts / community support. If I don't understand a diagraming standard I won't phone it in. 
-* Play one upmanship against current diagrams used to demonstrate Observability concepts. I use them as inspiration for my examples, but am certainly not saying my way is right!
+* Play one up-manship against current diagrams used to demonstrate Observability concepts. I use them as inspiration for my examples, but am certainly not saying my way is right!
 * Be a SIG (Special Interest Group)
 * Be biased towards a vendor
 
