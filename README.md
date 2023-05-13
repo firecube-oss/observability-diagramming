@@ -18,14 +18,14 @@ Somewhat opinionated assets for Observability Diagramming.
 
 ### Pipelines
 
-<img src="./assets/OTEL_COLLECTOR.png">
+<img src="./assets/OTEL_COLLECTOR.PNG">
 
 ### Platforms
 
 ### SLI / SLO
 
-<img src="./assets/SLI.png">
-<img src="./assets/SLO.png">
+<img src="./assets/SLI.PNG"">
+<img src="./assets/SLO.PNG"">
 
 ## Goals
 
