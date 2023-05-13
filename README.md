@@ -24,8 +24,8 @@ Somewhat opinionated assets for Observability Diagramming.
 
 ### SLI / SLO
 
-<img src="./assets/SLI.PNG"">
-<img src="./assets/SLO.PNG"">
+<img src="./assets/SLI.PNG">
+<img src="./assets/SLO.PNG">
 
 ## Goals
 
